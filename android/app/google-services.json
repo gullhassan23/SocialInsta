@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30195809754",
+    "firebase_url": "https://sociome-72086-default-rtdb.firebaseio.com",
+    "project_id": "sociome-72086",
+    "storage_bucket": "sociome-72086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30195809754:android:b39bb8c27a5b043476d4e3",
+        "android_client_info": {
+          "package_name": "com.example.sociome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30195809754-u94kd1i4s9rgvu6pc6a00c8pd5p3u9f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWRIp-EvGHtgChGcGhdLJLWcy5WdlNJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30195809754-u94kd1i4s9rgvu6pc6a00c8pd5p3u9f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
